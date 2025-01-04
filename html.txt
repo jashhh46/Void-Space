@@ -1,0 +1,3 @@
+html Hyper Text Markup Lanaguage
+
+git push wont work, before that first we have to initialize it first 
